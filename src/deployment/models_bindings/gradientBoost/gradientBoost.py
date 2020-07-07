@@ -80,7 +80,7 @@ def TransformYToResult(Y):
     Y = Y.clip(min = 0)/2
     result = np.round(Y).astype('int')
 
-    return result 
+    return result  
 
 
 # In[ ]:
