@@ -30,7 +30,7 @@ def TransformDataToX(df, date):
         else:
             df.drop(columns = ['pickup_community_area'], inplace = True, axis = 1)
             begin = 1
-        
+         
         for i in range(begin, len(categorical_variables)):
             df[categorical_variables[i]] = df[categorical_variables[i]].astype('category').cat.set_categories(categories[i])
         return df
