@@ -54,7 +54,7 @@ def loadCommunities(taxiTrips=None):
     
     # communities['CENTER'] = [CENTER[0] for CENTER in communities['CENTER']]
 
-
+ 
     return communities
 
 def updateTaxiTrips(communities, taxiTrips, **kwargs):
