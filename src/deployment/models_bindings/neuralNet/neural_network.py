@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-def TransformDataToX(df, date): 
+def TransformDataToX(df, date):  
     
     def dummie_and_drop(df, name):
         # Creates a dummy variable, concatenates it and finally drops the original categorical variable
