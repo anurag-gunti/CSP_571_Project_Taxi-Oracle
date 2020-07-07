@@ -18,6 +18,6 @@ https://drive.google.com/drive/u/0/folders/1_0wi-RHSWrJ81O6oC_uBtZoCfA9uNLoJ
 That way the taxis business owners will be able to place the taxis in the correct location. For that we are thinking of using the following datasets:
 - Taxi transportation data
 - Weather data
-- CTA public transportation data
+- CTA public transportation data 
 
 
