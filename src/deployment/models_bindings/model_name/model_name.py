@@ -19,4 +19,4 @@ def TransformYToResult(Y): # NO CHANGE
     # OR a dictionary with the key as the community
     #  and the value the predicted trips.
 
-    return result # NO CHANGE
+    return result # NO CHANGE 
